@@ -1,5 +1,5 @@
 
-# Kharcha_Planner is Expense Management System using MERN Stack
+# Kharcha_Planner is Expense Management System 
 
 ### Live Website: 
 
